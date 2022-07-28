@@ -5,3 +5,5 @@ I love to work in Git
 I love to work in github too
 I love AWS
 I like E3s
+I love Azure
+
